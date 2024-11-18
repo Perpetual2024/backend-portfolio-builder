@@ -4,7 +4,7 @@
     "introduction": "Make a quick portfolio and look like a pro."
   },
   "about": {
-    "name": "carrot ",
+    "name": "carrot",
     "bio": "nmmj",
     "profileImage": ""
   },
@@ -48,17 +48,13 @@
       "url": ""
     }
   ],
-  "contact": {
-    "email": "",
-    "phone": "",
-    "address": ""
-  },
+  "contact": {},
   "login": {
     "users": [
       {
         "id": 1,
-        "username": "Perpetual",
-        "password": "password123"
+        "username": "",
+        "password": ""
       }
     ]
   }
